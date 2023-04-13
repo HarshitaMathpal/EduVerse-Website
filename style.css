@@ -1050,7 +1050,7 @@ section{
 .contact .row .image{
     flex: 1 1 50rem;
 }
-.contact .row .image img{
+.contact .row .image video{
     height: 40rem;
     width: 100%;
 }
